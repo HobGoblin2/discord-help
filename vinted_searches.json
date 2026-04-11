@@ -13,7 +13,12 @@
       6
     ],
     "order": "newest_first",
-    "exclude_words": [],
+    "exclude_words": [
+      "Home Bargains",
+      "inspired",
+      "pyjamas",
+      "style"
+    ],
     "channel_id": "1492335720520749189",
     "enabled": true
   }
