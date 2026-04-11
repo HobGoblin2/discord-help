@@ -1,48 +1,5 @@
 [
   {
-    "label": "Xbox Controller",
-    "search_text": "xbox controller",
-    "max_price": 15,
-    "min_price": null,
-    "size_ids": [],
-    "brand_ids": [],
-    "status_ids": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "order": "newest_first",
-    "enabled": true,
-    "keywords": [
-      "xbox controller",
-      "Exbox controller",
-      "X box controler",
-      "Zbox controller",
-      "Sbox controller",
-      "Xboc controller",
-      "Xbox controlller",
-      "X-box contraller",
-      "Xbox conroller",
-      "Xbox contoller",
-      "Xbos controller",
-      "Xbx controller",
-      "Xb1 controller",
-      "Xbox remote",
-      "Xbox joypad",
-      "MS controller",
-      "Xbox game pad",
-      "Xbox series x controler",
-      "Microsoft gamepad",
-      "Xbox one controler",
-      "Xbox elite series 2 controler"
-    ],
-    "exclude_words": [
-      "360"
-    ],
-    "channel_id": "1482473985030492300"
-  },
-  {
     "label": "Xbox Series",
     "search_text": "xbox series",
     "max_price": null,
